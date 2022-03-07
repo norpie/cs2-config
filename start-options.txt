@@ -1,1 +1,1 @@
--tickrate 128 -novid -nojoy -high -refresh 144 -fullscreen -r_emulate_g -forcenovsync -softparticlesdefaultoff +r_dynamic 0 +fps_max 0 +mat_disable_fancy_blending 1 +cl_forcepreload 1 +r_dynamic 0 +exec autoexec.cfg 
+-language bananagaming -tickrate 128 -novid -nojoy -high -refresh 144 -fullscreen -r_emulate_g -forcenovsync -softparticlesdefaultoff +r_dynamic 0 +fps_max 0 +mat_disable_fancy_blending 1 +cl_forcepreload 1 +r_dynamic 0 +exec autoexec.cfg 
